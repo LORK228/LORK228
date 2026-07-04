@@ -2,36 +2,24 @@
 
 ### Backend Developer | C# / .NET / Java | Software Engineering Student | Game dev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LORK228&label=Profile views&color=0e75b6&style=flat" alt="LORK228" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=LORK228&label=Profile+views&color=0e75b6&style=flat)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LORK228&theme=onedark&margin-w=15" alt="LORK228's Trophies" />
-  </a>
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=LORK228&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **A 3D top-down roguelike shooter in Unity with a strong focus on clean architecture, alongside a scientific article review service in ASP.NET Core.**
-
 - 🌱 I'm currently learning **Game architecture patterns (ECS, Behavior Trees, Dependency Injection) and deepening my practical skills with PostgreSQL and Docker.**
-
 - 👯 I'm looking to collaborate on **C# backend services, REST APIs, and architecturally complex game dev projects.**
-
-- 🤝 I'm looking for help with **Finding position in .NET/Backend development.**
-
+- 🤝 I'm looking for help with **Finding a position in .NET/Backend development.**
 - 💬 Ask me about **C#, ASP.NET Core, software architecture, Unity, and game design patterns.**
+- 📫 How to reach me: **maksim041119@gmail.com, https://t.me/KROL228**
+- 📄 Know about my experiences: **[Resume Link](https://docs.google.com/document/d/1V5T6fH2VlS6T5Mz9vDjWJK0aqGYsQcyC/edit?usp=sharing&ouid=115525730536006262825&rtpof=true&sd=true)**
 
-- 📫 How to reach me **maksim041119@gmail.com, https://t.me/KROL228**
+### Connect with me:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LORK228" height="30" width="40" />](https://github.com/LORK228)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/максим-чудаков-107811407)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />](https://discord.gg/lork228)
 
-- 📄 Know about my experiences **[Resume Link](https://docs.google.com/document/d/1V5T6fH2VlS6T5Mz9vDjWJK0aqGYsQcyC/edit?usp=sharing&ouid=115525730536006262825&rtpof=true&sd=true)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/LORK228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LORK228" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/максим-чудаков-107811407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="максим-чудаков-107811407" height="30" width="40" /></a>
-<a href="https://discord.gg/lork228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lork228" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
@@ -40,31 +28,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats & Activity:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact" alt="LORK228" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LORK228&show_icons=true&locale=en" alt="LORK228" />
-</p>
-<br clear="both">
-<br>
+### GitHub Stats & Activity:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LORK228&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LORK228&show_icons=true&locale=en)
 
-<!-- Если используешь Codewars, раскомментируй строку ниже и замени YOUR_CODEWARS_NAME на свой никнейм -->
-<!-- <p align="left"><a href="https://www.codewars.com/users/YOUR_CODEWARS_NAME"><img src="https://www.codewars.com/users/YOUR_CODEWARS_NAME/badges/large" alt="Codewars" /></a></p> -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LORK228&theme=dark)
