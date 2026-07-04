@@ -37,11 +37,9 @@
 
 ### GitHub Stats & Activity:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LORK228&theme=onedark&margin-w=15)
-
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-stats-extended.vercel.app/api?username=LORK228&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LORK228&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LORK228&theme=dark)
