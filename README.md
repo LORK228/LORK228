@@ -4,8 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=LORK228&label=Profile+views&color=0e75b6&style=flat)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=LORK228&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I'm currently working on **A 3D top-down roguelike shooter in Unity with a strong focus on clean architecture, alongside a scientific article review service in ASP.NET Core.**
 - 🌱 I'm currently learning **Game architecture patterns (ECS, Behavior Trees, Dependency Injection) and deepening my practical skills with PostgreSQL and Docker.**
 - 👯 I'm looking to collaborate on **C# backend services, REST APIs, and architecturally complex game dev projects.**
@@ -15,7 +13,7 @@
 - 📄 Know about my experiences: **[Resume Link](https://docs.google.com/document/d/1V5T6fH2VlS6T5Mz9vDjWJK0aqGYsQcyC/edit?usp=sharing&ouid=115525730536006262825&rtpof=true&sd=true)**
 
 ### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LORK228" height="30" width="40" />](https://github.com/LORK228)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />](https://github.com/LORK228)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/максим-чудаков-107811407)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />](https://discord.gg/lork228)
 
@@ -38,8 +36,12 @@
 </p>
 
 ### GitHub Stats & Activity:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LORK228&show_icons=true&locale=en)
+![Trophies](https://github-profile-trophy.vercel.app/?username=LORK228&theme=onedark&margin-w=15)
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LORK228&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LORK228&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LORK228&theme=dark)
